@@ -1,79 +1,95 @@
-Flask Web Application – Aditya Jaiswal
+# 👋 Hi, I'm Aditya Jaiswal
 
-This is a Flask-based web application developed by Aditya Jaiswal. It supports basic web functionality using HTML templates and integrates with an SQLite database.
-
-🚀 Features
-
-Dynamic HTML templates (index, about, update)
-
-SQLite database integration
-
-Deployed with Heroku (via Procfile)
-
-Modular structure for scalable development
-
-
-📁 Project Structure
-
-Aditya-Jaiswal-GIT-main/
-├── app.py                # Main Flask app
-├── requirment.txt        # Python dependencies
-├── Procfile              # For Heroku deployment
-├── instance/
-│   └── aditya.db         # SQLite database
-├── templates/            # HTML pages
-│   ├── base.html
-│   ├── index.html
-│   ├── about.html
-│   └── update.html
-
-💻 Installation
-
-1. Clone the repository
-
-git clone https://github.com/<your-username>/Aditya-Jaiswal-GIT.git
-cd Aditya-Jaiswal-GIT
-
-
-2. Create a virtual environment and activate it
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-
-3. Install dependencies
-
-pip install -r requirment.txt
-
-
-4. Run the application
-
-python app.py
-
-
-5. Visit in browser
-
-http://127.0.0.1:5000/
-
-
-
-🌐 Deployment
-
-This app is ready for deployment on Heroku. Make sure to:
-
-Add Procfile
-
-Install gunicorn
-
-Push to a GitHub repository and link to Heroku
-
-
-📄 License
-
-This project is open-source and available under the MIT License.
-
+🎓 **Computer Science Student** at Gandhinagar University
+💻 **Aspiring Full-Stack Developer & AI Enthusiast**
+🚀 Passionate about building real-world projects using Web, AI, and Automation
 
 ---
 
-Note: You may want to rename requirment.txt to requirements.txt to follow standard conventions.
+## 🧠 About Me
 
+* 🔭 Currently learning **Web Development (Flask, FastAPI, Frontend)**
+* 🤖 Interested in **AI Agents, Automation, and Voice Bots**
+* 🧪 Love working on **college-level innovation & science projects**
+* 📚 Studying **Operating Systems, Discrete Mathematics, COA & Cyber Security**
+* 🎯 Goal: Enter the **Web Development / AI Industry**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+* Python
+* JavaScript
+* C / C++ (Basics)
+
+### 🌐 Web Development
+
+* HTML, CSS, JavaScript
+* Flask
+* FastAPI
+* REST APIs
+
+### 📊 Data & AI
+
+* Pandas
+* NumPy
+* AI Prompt Engineering
+* AI Agents & Chatbots
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* Postman
+* VS Code
+* n8n (Workflow Automation)
+
+---
+
+## 🚀 Projects
+
+* **AI Phone Call Bot (Business Assistant)**
+  Automated calling bot for a Digital Marketing Agency
+
+* **Weather & News Web Apps**
+  API-based apps using Flask & JavaScript
+
+* **Telegram & WhatsApp Automation (n8n)**
+  Bots, alerts, workflows & integrations
+
+---
+
+## 📘 Academic Focus
+
+* Operating System – Memory Management
+* Computer Organization & Architecture
+* Discrete Mathematics
+* Cyber Security
+* Automata Theory
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Flask & FastAPI
+* Backend Deployment (WSGI, Docker)
+* AI Agent Design
+* Full-Stack Project Architecture
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aditya-jaiswal-135a08350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 📧 Email: adibhai212005@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+> I love converting **college syllabus topics into real-world projects** 🚀
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
