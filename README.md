@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Jaiswal
 
 🎓 **Computer Science Student** at Gandhinagar University
-💻 **Aspiring Full-Stack Developer & AI Enthusiast**
+💻 **Aspiring AI Enthusiast**
 🚀 Passionate about building real-world projects using Web, AI, and Automation
 
 ---
